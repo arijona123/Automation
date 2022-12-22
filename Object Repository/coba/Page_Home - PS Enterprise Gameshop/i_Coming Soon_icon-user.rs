@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Coming Soon_icon-user</name>
+   <tag></tag>
+   <elementGuidId>16cf09c3-7401-4451-b5ab-475157eb84fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='masthead']/div/div[4]/ul/li[3]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-user</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3cb7ea1d-07c5-4f49-a8bc-1274b001090e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-user</value>
+      <webElementGuid>27e208d5-b3c0-40d7-90a0-c8212de74c50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;masthead&quot;)/div[@class=&quot;header-inner flex-row container logo-left medium-logo-center&quot;]/div[@class=&quot;flex-col hide-for-medium flex-right&quot;]/ul[@class=&quot;header-nav header-nav-main nav nav-right  nav-line-bottom nav-uppercase&quot;]/li[@class=&quot;account-item has-icon&quot;]/a[@class=&quot;nav-top-link nav-top-not-logged-in is-small&quot;]/i[@class=&quot;icon-user&quot;]</value>
+      <webElementGuid>c4c1b5b5-c5f2-443b-8e61-8f7981e7c28f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='masthead']/div/div[4]/ul/li[3]/a/i</value>
+      <webElementGuid>01d565b7-7ef5-4beb-a1cc-0562f4d8a254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[3]/a/i</value>
+      <webElementGuid>6139caaa-8818-473b-93ed-163620bd25d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

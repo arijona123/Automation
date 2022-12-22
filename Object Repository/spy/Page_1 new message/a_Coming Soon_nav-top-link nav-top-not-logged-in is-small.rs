@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Coming Soon_nav-top-link nav-top-not-logged-in is-small</name>
+   <tag></tag>
+   <elementGuidId>c37d187e-043c-478b-9177-10df15dda6e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='masthead']/div/div[4]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-top-link.nav-top-not-logged-in.is-small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f8163d60-c818-4a6c-a029-c8d4c3415727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.psegameshop.com/my-account/</value>
+      <webElementGuid>a4df9ece-cf70-435e-99fc-61f7d36ab27a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-top-link nav-top-not-logged-in is-small</value>
+      <webElementGuid>fad9eff6-3b8a-4889-89f6-b7b23e477792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-open</name>
+      <type>Main</type>
+      <value>#login-form-popup</value>
+      <webElementGuid>730eb688-879a-4379-bae1-78fd1e0ce72f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;masthead&quot;)/div[@class=&quot;header-inner flex-row container logo-left medium-logo-center&quot;]/div[@class=&quot;flex-col hide-for-medium flex-right&quot;]/ul[@class=&quot;header-nav header-nav-main nav nav-right  nav-line-bottom nav-uppercase&quot;]/li[@class=&quot;account-item has-icon&quot;]/a[@class=&quot;nav-top-link nav-top-not-logged-in is-small&quot;]</value>
+      <webElementGuid>33809163-f9ca-42f6-bfb9-dc25795e6fba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='masthead']/div/div[4]/ul/li[3]/a</value>
+      <webElementGuid>96eb1f76-ac23-4257-95c6-86e9bc513595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coming Soon'])[1]/following::a[2]</value>
+      <webElementGuid>a7e62525-7eee-4460-9a8c-8e1a9dcaacde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Release'])[1]/following::a[3]</value>
+      <webElementGuid>1237447b-74f7-4cb1-b7fd-df2c0038c19c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/preceding::a[2]</value>
+      <webElementGuid>95eb1970-80c5-4019-9578-ef0330c0d7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search for:'])[2]/preceding::a[2]</value>
+      <webElementGuid>763e4422-4e9f-4c51-9ffe-5a69d6765b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.psegameshop.com/my-account/')]</value>
+      <webElementGuid>2e8a1df8-a887-4511-b680-7c32c9ce3f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[3]/a</value>
+      <webElementGuid>11f86fba-6f34-4a33-94ef-2dfd05155bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.psegameshop.com/my-account/']</value>
+      <webElementGuid>f20bc6b2-daf9-4842-8b26-c33e7601e18a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

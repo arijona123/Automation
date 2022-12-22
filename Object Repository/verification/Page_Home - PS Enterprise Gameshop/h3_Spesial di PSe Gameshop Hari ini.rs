@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Spesial di PSe Gameshop Hari ini</name>
+   <tag></tag>
+   <elementGuidId>16bd78fd-f8e5-47ad-9afe-b84c04927bb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='text-253877454']/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>7c5181e4-686d-4df9-bf51-37fe77d26cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Spesial di PSe Gameshop Hari ini</value>
+      <webElementGuid>427bae9c-9fb2-4821-9f83-37dd25276e2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;text-253877454&quot;)/h3[1]</value>
+      <webElementGuid>87aaf6f2-d0f7-447d-bf47-f78afc791e6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='text-253877454']/h3</value>
+      <webElementGuid>77456b73-a860-4d9e-b401-1d5cf0a7749b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Button'])[2]/following::h3[1]</value>
+      <webElementGuid>c9ab2757-c3f7-4849-b938-ed297c3284e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search for:'])[2]/following::h3[1]</value>
+      <webElementGuid>cacabeee-ed7c-436a-8411-b09d6278c986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kejar Diskon Spesial'])[1]/preceding::h3[1]</value>
+      <webElementGuid>bd652753-ea1e-4fa9-9fb3-acfd16f320af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/preceding::h3[2]</value>
+      <webElementGuid>36adc88e-fb14-4799-b598-977fdfb0ba39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Spesial di PSe Gameshop Hari ini']/parent::*</value>
+      <webElementGuid>47bc6f54-118e-49b7-afca-75a274285443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>fe2d168b-1d48-4055-b17d-e9a61d689da5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Spesial di PSe Gameshop Hari ini' or . = 'Spesial di PSe Gameshop Hari ini')]</value>
+      <webElementGuid>33f5541c-453f-4b48-a211-78aa2ea35a72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
